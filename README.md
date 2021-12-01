@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 **&nbsp;**
-- 👨‍💻 You can also check out my portfolio at [https://rudra.github.io/](https://rudra.github.io/)
+- 👨‍💻 You can also check out my portfolio at [https://pranav-mistry.github.io/](https://rudra.github.io/)
 
-- 📫 How to reach me **rudra@outlook.com**
+- 📫 How to reach me **pgajjar793@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -36,8 +36,7 @@
  <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> </p>
 
 **&nbsp;**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-nsh&show_icons=true&locale=en&layout=compact" alt="Rudra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-nsh&show_icons=true&locale=en&layout=compact" alt="Pranav" /></p>
 
 **&nbsp;**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&locale=en" alt="Rudra" /></p>
