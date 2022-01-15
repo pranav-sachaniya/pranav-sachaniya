@@ -64,4 +64,5 @@
 
 <br />
 <h2 align="left"> Github <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" width = 22px> </h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-mistry&show_icons=true&locale=en&layout=extended&langs_count=8" alt="#" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-mistry&layout=compact)](https://github.com/pranav-mistry/github-readme-stats)
