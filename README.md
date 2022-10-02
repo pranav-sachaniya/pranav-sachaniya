@@ -11,9 +11,9 @@
 <br />
 &nbsp;
 
-- 👨‍💻 **You can also check out my portfolio!** <a href="#" > Click Hear </a>
+- 👨‍💻 **You can also check out my portfolio!** <a href="#" > Click Here </a>
 
-- 📫 **How to reach me!** <a href="mailto:showking00765@gmail.com" > Click Hear </a>
+- 📫 **How to reach me!** <a href="mailto:showking00765@gmail.com" > Click Here </a>
 
 - **Don't forget to follow, If you like my Project.**
 
