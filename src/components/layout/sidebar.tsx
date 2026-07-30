@@ -3,7 +3,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { usePathname } from "next/navigation";
-import { Home, User, Briefcase, Mail, Instagram, Twitter, Linkedin, Youtube } from "lucide-react";
+import { Home, User, Briefcase, Mail } from "lucide-react";
 
 export function Sidebar() {
   const pathname = usePathname();
